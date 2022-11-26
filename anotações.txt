@@ -1,0 +1,39 @@
+-> Node.js
+-> Express
+-> Banco de Dados
+
+Estudar.: Normalizando dos Dados (Melhorar a eficiência)
+
+
+
+
+HTTP Client (navegador ou algo usado pelo usario final)
+
+Server
+
+Idioma comum entre Front e Back (JSON)
+
+User -> HTTP Client -> Server -> Banco de Dados
+
+Req -> (index.js) -> Controller -> Banco 
+Response <-
+
+
+Banco -> Tabelas -> Linhas e colunas
+
+
+UUID
+INIT
+
+
+Comands: (Sempre usar ; no final)
+SHOW DATABESES; (Mostar bancos de dados, tabelas)
+CRETE DATABASE nome_do_banco; (Criar um banco de dados, tabelas)
+USE nome_do_banco; (Usa o banco da dados)
+DESC (Descrever a tabela, banco de dados)
+
+INSERT (C reate)  POST
+SELECT (R ead)    GET
+UPDATE (U pdate)  PATCH
+DELETE (D elete)  DELETE
+
